@@ -12,7 +12,7 @@ function App() {
 
   // Fetch toy data from the public folder
   useEffect(() => {
-    fetch('/toys.json')
+    fetch('/my-toy-collection-react/toys.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Failed to fetch toy data');
