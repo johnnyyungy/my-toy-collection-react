@@ -1,0 +1,124 @@
+{
+    "toys": [
+      {
+        "category": "Transformers",
+        "name": "Runamuck",
+        "code": "WFC-E37",
+        "image": "images/runamuck.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Runabout",
+        "code": "WFC-E41",
+        "image": "images/runabout.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Starscream",
+        "code": "WFC-S60",
+        "image": "images/starscream.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Ultra Magnus",
+        "code": "WFC-E53",
+        "image": "images/ultramag.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Scourge",
+        "code": "Studio 86",
+        "image": "images/scourge.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Rodimus Prime",
+        "code": "Studio 86",
+        "image": "images/rodimus.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Rainmakers",
+        "code": "WFC-S88",
+        "image": "images/rainmakers.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Megatron",
+        "code": "WFC-E45",
+        "image": "images/megbeast.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Hot Rod",
+        "code": "Studio 86",
+        "image": "images/hotrod.png"
+      },
+      {
+        "category": "Transformers",
+        "name": "Grimlock",
+        "code": "Studio 86",
+        "image": "images/grimlock.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Zeo Green Ranger",
+        "code": "",
+        "image": "images/zeogreen.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Legacy Green Ranger",
+        "code": "",
+        "image": "images/greenranger.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Legacy White Ranger",
+        "code": "",
+        "image": "images/whiteranger.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Lightning Gold Ranger",
+        "code": "",
+        "image": "images/goldranger.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Lord Drakkon V3",
+        "code": "",
+        "image": "images/drakkonv3.png"
+      },
+      {
+        "category": "Power Rangers",
+        "name": "Lightning Lord Drakon",
+        "code": "",
+        "image": "images/drakkon.png"
+      },
+      {
+        "category": "Star Wars",
+        "name": "Boba Fett",
+        "code": "Vintage Collection",
+        "image": "images/vintageboba.png"
+      },
+      {
+        "category": "Star Wars",
+        "name": "Darth Vader",
+        "code": "Vintage Collection",
+        "image": "images/vader.png"
+      },
+      {
+        "category": "Lego",
+        "name": "Spiderman Street Scene",
+        "code": "",
+        "image": "images/lego-spiderman.png"
+      },
+      {
+        "category": "TMNT",
+        "name": "Michaelangelo",
+        "code": "",
+        "image": "images/michaelangelo.png"
+      }
+    ]
+  }
