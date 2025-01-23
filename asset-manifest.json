@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-toy-collection-react/static/css/main.90a9bbef.css",
+    "main.js": "/my-toy-collection-react/static/js/main.f87472d5.js",
+    "index.html": "/my-toy-collection-react/index.html",
+    "main.90a9bbef.css.map": "/my-toy-collection-react/static/css/main.90a9bbef.css.map",
+    "main.f87472d5.js.map": "/my-toy-collection-react/static/js/main.f87472d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a9bbef.css",
+    "static/js/main.f87472d5.js"
+  ]
+}
