@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Header from './components/Header'; // Import Header
+import Nav from './components/Nav'; // Import Nav
 import Footer from './components/Footer'; // Import Footer
 import CategorySection from './components/CategorySection';
 import SearchBar from './components/SearchBar';
@@ -57,6 +58,7 @@ function App() {
   return (
     <div className="App">
       <Header searchTerm={searchTerm} setSearchTerm={setSearchTerm} /> {/* Pass props to Header */}
+      <Nav /> {/* Add Nav component */}
       <main>
         {Object.entries(categories).map(([category, toysInCategory]) => (
           <CategorySection key={category} category={category} toys={toysInCategory} />
