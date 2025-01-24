@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/my-toy-collection-react/static/css/main.90a9bbef.css",
-    "main.js": "/my-toy-collection-react/static/js/main.c00cf75d.js",
+    "main.js": "/my-toy-collection-react/static/js/main.71b5c4d7.js",
     "index.html": "/my-toy-collection-react/index.html",
     "main.90a9bbef.css.map": "/my-toy-collection-react/static/css/main.90a9bbef.css.map",
-    "main.c00cf75d.js.map": "/my-toy-collection-react/static/js/main.c00cf75d.js.map"
+    "main.71b5c4d7.js.map": "/my-toy-collection-react/static/js/main.71b5c4d7.js.map"
   },
   "entrypoints": [
     "static/css/main.90a9bbef.css",
-    "static/js/main.c00cf75d.js"
+    "static/js/main.71b5c4d7.js"
   ]
 }
