@@ -1,5 +1,5 @@
 import React from 'react';
-import SearchBar from './SearchBar'; // Correct import path
+import SearchBar from './SearchBar';
 
 function Header({ searchTerm, setSearchTerm }) {
   return (
